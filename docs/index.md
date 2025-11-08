@@ -29,7 +29,8 @@ layout: doc
 - Webアプリケーションの設計・開発・運用（フロントエンド・バックエンド）
 - フロントエンドの技術的負債解消とリアーキテクチャ
 - フロントエンド開発基盤の構築・改善
-- 採用活動支援・技術面接
+- チーム開発のマネジメント（タスク切り出し、進捗管理）
+- 採用活動支援
 
 
 ## 技術スタック
@@ -41,7 +42,8 @@ layout: doc
 |言語|業務経験|
 |---|---|
 |<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|5年|
-|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|2年|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|3年|
+|<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />|1年|
 |<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|1年|
 |<img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white" />|1年|
 
@@ -49,14 +51,15 @@ layout: doc
 
 <div>
 
-|フレームワーク|業務経験|
+|フレームワーク・ツール|業務経験|
 |---|---|
 |<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|5年|
-|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
 |<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|1年|
+|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
+|<img alt="Echo" src="https://img.shields.io/badge/-Echo-00ADD8?style=flat-square&logo=go&logoColor=white" />|1年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|1年|
 |<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|1年|
 |<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|1年|
 
 
 </div>
@@ -96,11 +99,11 @@ CRM/SFA「eセールスマネージャー」の開発・運用。
 - **プロジェクト規模：**
   - 平均 4〜7 人チームでのアジャイル開発
 - **使用技術：**
-  - JavaScript, Vue.js
+  - TypeScript(JavaScript), Vue.js
 - **役割：**
   - 機能検討、設計、コーディング、レビュー
 - **担当プロジェクト：**
-  - JavaScript + Vue.js での SPA 開発
+  - TypeScript(JavaScript) + Vue.js での SPA 開発
   - フロントエンドのパフォーマンス改善
   - Vue2からVue3へのアップデート支援
   - Vue Composition API を使った新機能の開発
